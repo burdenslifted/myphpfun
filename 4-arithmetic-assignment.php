@@ -16,6 +16,7 @@
 		
 			?>
 			<hr />
+		<!--	This is the code on the site.-->
 			<?php   
 			 
 			$num = 8; 

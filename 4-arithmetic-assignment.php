@@ -3,6 +3,7 @@
 		<title>Ex 4: Arithmetic-Assignment Operators and Variables</title>
 	</head>
 	<body>
+<!--	This is the code I wrote.-->
 		<?php 
 		$x = 8;
 		echo "Value is now " . $x . ".<br />";
@@ -15,6 +16,7 @@
 		
 			?>
 			<hr />
+		<!--	This is the code on the site.-->
 			<?php   
 			 
 			$num = 8; 
